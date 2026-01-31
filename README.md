@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m a Data Analyst
 
-<!--
-**vsharma112/vsharma112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a working Data Analyst with 3 years of professional experience turning raw data into actionable insights. I work closely with business teams to solve problems using data-driven solutions.
 
-Here are some ideas to get you started:
+🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently focused on building interactive dashboards, optimizing SQL queries, improving data models, and exploring advanced analytics and automation techniques.
+
+🛠️ Tools & Technologies
+
+SQL, Power BI, Excel, Python (basics), Power Query, DAX, data modeling, and data cleaning techniques.
+
+📫 How to reach me
+
+Connect with me on GitHub or reach out via LinkedIn for collaboration, learning, or data discussions.
