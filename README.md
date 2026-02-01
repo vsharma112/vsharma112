@@ -1,4 +1,4 @@
-👋 Hi, I’m a Data Analyst
+👋 Hi, I’m a Data Analyst / Business Analyst
 
 I’m a working Data Analyst with 3 years of professional experience turning raw data into actionable insights. I work closely with business teams to solve problems using data-driven solutions.
 
