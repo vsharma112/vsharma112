@@ -8,7 +8,7 @@ I’m currently focused on building interactive dashboards, optimizing SQL queri
 
 🛠️ Tools & Technologies
 
-SQL, Power BI, Excel, Python, Power Query, DAX, data modeling, and data cleaning techniques.
+SQL, Power BI, Advance Excel, Python, Power Query, DAX, Data Modeling, and Data Cleaning techniques.
 
 📫 How to reach me
 
